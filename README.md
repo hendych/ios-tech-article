@@ -24,6 +24,7 @@ A curated link of iOS articles and engineering blogs based on the **company**.
 ### Reddit
 - [iOS and Bazel at Reddit: A Journey](
 https://www.reddit.com/r/RedditEng/comments/syz5dw/ios_and_bazel_at_reddit_a_journey/)
+- [Reddit Recap: State of Mobile Platforms Edition (2022)](https://www.reddit.com/r/RedditEng/comments/zkap1u/reddit_recap_state_of_mobile_platforms_edition/)
 
 ### Swiftrocks
 - [Memory Management and Performance of Value Types](https://swiftrocks.com/memory-management-and-performance-of-value-types)
