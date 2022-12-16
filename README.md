@@ -42,3 +42,4 @@ https://developer.apple.com/videos/play/wwdc2018/415/)
 ## OOT
 ### AWS
 - [Connecting to RDS](https://aws.amazon.com/blogs/database/securely-connect-to-an-amazon-rds-or-amazon-ec2-database-instance-remotely-with-your-preferred-gui/)
+- [Exporting data from RDS to s3](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/postgresql-s3-export.html)
