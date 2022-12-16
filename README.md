@@ -36,3 +36,9 @@ https://medium.com/traveloka-engineering/our-journey-in-reducing-traveloka-ios-a
 ### WWDC
 - [Behind the Scenes of the Xcode Build Process](
 https://developer.apple.com/videos/play/wwdc2018/415/)
+
+
+
+## OOT
+### AWS
+- [Connecting to RDS](https://aws.amazon.com/blogs/database/securely-connect-to-an-amazon-rds-or-amazon-ec2-database-instance-remotely-with-your-preferred-gui/)
